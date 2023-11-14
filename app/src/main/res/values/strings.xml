@@ -1,0 +1,15 @@
+<resources>
+
+        <string name="app_name">UnitConverter</string>
+        <!-- Other string resources may be defined here -->
+
+
+    <string-array name="unit_options">
+        <item>Centimeters</item>
+        <item>Meters</item>
+        <!-- Add more unit options as needed -->
+    </string-array>
+</resources>
+
+
+
